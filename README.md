@@ -11,4 +11,4 @@ In other words...
 
 > Inspired by Kaze Emanuar as well as many many amazing people! ♥
 > 
-> Consider this a supplement (extension? corollary?) to _tonic_ and [_snesgans_](https://github.com/pocketrice/snesgans).
+> Consider this a supplemental exercise (extension? corollary?) for _tonic, oemu, yubeat, pocky_ and [_snesgans_](https://github.com/pocketrice/snesgans).

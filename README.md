@@ -1,7 +1,7 @@
 # allory
 _**A Light Lil' Obsolete Renderer, Yay!**_
 
-![ynoproject_tsushin_Tropics_screenshot_2025-03-30-13h01m04s](https://github.com/user-attachments/assets/c4636ff6-d693-4cdb-a33f-b37477bbcbf8)![ynoproject_2kki_Port_City_screenshot_2025-03-14-21h23m19s(1)](https://github.com/user-attachments/assets/30a35750-cc24-4095-8e6b-9fc31e879aeb)![ynoproject_unconscious_Lightbulb_Garden_screenshot_2025-03-16-11h22m56s(1)](https://github.com/user-attachments/assets/71e8df4e-ce46-40ee-8726-773ee44b1cd5)
+![ynoproject_tsushin_Tropics_screenshot_2025-03-30-13h01m04s](https://github.com/user-attachments/assets/c4636ff6-d693-4cdb-a33f-b37477bbcbf8)![ynoproject_2kki_Port_City_screenshot_2025-03-14-21h23m19s(1)](https://github.com/user-attachments/assets/30a35750-cc24-4095-8e6b-9fc31e879aeb)![ynoproject_unconscious_Lightbulb_Garden_screenshot_2025-03-16-11h22m56s(1)](https://github.com/user-attachments/assets/71e8df4e-ce46-40ee-8726-773ee44b1cd5)<img src="https://github.com/user-attachments/assets/9b0b2635-447f-4461-9a2a-32f231b90725" width="320px" height="240px">
 
 
 

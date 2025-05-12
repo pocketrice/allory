@@ -1,10 +1,15 @@
+#![forbid(unsafe_code)]
+
+use std::cell::RefCell;
 use std::cmp::{max, min};
 use std::error::Error;
-use std::ops::{RangeBounds, RangeInclusive};
+use std::ops::{Deref, RangeBounds, RangeInclusive};
+use std::rc::Rc;
+use std::sync::{Arc, Mutex};
 use pixels::{Pixels, SurfaceTexture};
 use wgpu::hal::DynQueue;
 use winit::application::ApplicationHandler;
-use winit::event::{StartCause, WindowEvent};
+use winit::event::{KeyEvent, StartCause, WindowEvent};
 use winit::event_loop::{ActiveEventLoop, ControlFlow, EventLoop};
 use winit::window::{Icon, Window, WindowId};
 
@@ -17,9 +22,10 @@ const DEF_WIDTH: u32 = 256;
 const DEF_HEIGHT: u32 = 192;
 const BOX_SIZE: i16 = 64;
 
-struct App<'a> {
-    window: Option<Window>, // see Option<Box<dyn Window>>... 0.30.x changed Window to struct over trait?
-    pix: Option<Pixels<'a>>,
+struct App<'win> {
+    window: Option<Arc<Window>>, // see Option<Box<dyn Window>>... 0.30.x changed Window to struct over trait?
+    ctx: Option<Arc<Mutex<Pixels<'win>>>>,
+    smgr: StateMgr,
     icon: Icon,
 }
 
@@ -28,20 +34,23 @@ struct StateMgr {
     box_y: i16,
     velocity_x: i16,
     velocity_y: i16,
-
 }
 
-impl ApplicationHandler for App {
-    fn memory_warning(&mut self, event_loop: &ActiveEventLoop) {
-        todo!()
-    }
-
-    fn new_events(&mut self, event_loop: &ActiveEventLoop, cause: StartCause) {
-        todo!()
-    }
-
+impl<'win> ApplicationHandler for App<'win> {
     fn resumed(&mut self, event_loop: &ActiveEventLoop) {
-        self.window = Some(event_loop.create_window(Window::default_attributes()).unwrap());
+        if self.window.is_none() {
+            let win_attr = Window::default_attributes().with_title("COLOR ME SURPRISED IT WORKS");
+            let win = Arc::new(
+                event_loop.create_window(win_attr).unwrap()
+            );
+
+            self.window = Some(win.clone());
+            self.ctx = {
+                let win_size = win.inner_size();
+                let tex = SurfaceTexture::new(win_size.width, win_size.height, win.clone());
+                Some(Arc::new(Mutex::new(Pixels::new(DEF_WIDTH, DEF_HEIGHT, tex).unwrap())))
+            };
+        }
     }
 
     fn window_event(
@@ -50,37 +59,37 @@ impl ApplicationHandler for App {
         _window_id: WindowId,
         event: WindowEvent
     ) {
-        match event {
-            WindowEvent::Moved(pos) => {
-                println!("window moved (+{}, +{})", pos.x, pos.y);
-            },
-            WindowEvent::CloseRequested => {
-                println!("Stopping");
-                event_loop.exit();
-            },
-            WindowEvent::Focused(focused) => {
-                println!("::: ({:?})", focused);
-            },
-            WindowEvent::MouseWheel { device_id: _, delta: _, phase: _ } => {
-                println!("wheeee");
-            },
-            WindowEvent::RedrawRequested => { // !!!! STANDARD LOOP !!!!
-                let window = self.window.as_ref().unwrap();
+        let smgr = &mut self.smgr;
 
-                if self.pix.is_none() {
-                    self.pix = {
-                        let window = self.window.as_ref().unwrap();
-                        let window_size = window.inner_size();
-                        let surface_tex = SurfaceTexture::new(window_size.width, window_size.height, &window);
-                        Pixels::new(DEF_WIDTH, DEF_HEIGHT, surface_tex).ok()
-                    };
+        match event {
+            WindowEvent::Resized(new_size) => {
+                if let (mut pix, Some(win)) = (self.ctx.clone().unwrap().lock().unwrap(), self.window.as_ref()) {
+                    pix.resize_surface(new_size.width, new_size.height);
+                    win.request_redraw();
+                    println!("OK: window resize (={}, ={})", new_size.width, new_size.height);
+                } else {
+                    println!("ERR: ctx/win")
                 }
 
 
-
-
-                window.request_redraw();
-                //println!("redraw--");
+            },
+            WindowEvent::CloseRequested => {
+                println!("OK: stopping.");
+                event_loop.exit();
+            },
+            // WindowEvent::Focused(focused) => {
+            //     println!("OK: ({:?})", focused);
+            // },
+            WindowEvent::MouseWheel { device_id: _, delta: _, phase: _ } => {
+                println!("OK: wheee!");
+            },
+            WindowEvent::RedrawRequested => { // !!!! STANDARD LOOP !!!!
+                if let (mut pix, Some(win)) = (self.ctx.clone().unwrap().lock().unwrap(), self.window.as_ref()) {
+                    smgr.update();
+                    smgr.draw(pix.frame_mut());
+                    win.request_redraw();
+                    pix.render();
+                }
             },
             _ => {
                 println!("clear!");
@@ -89,21 +98,24 @@ impl ApplicationHandler for App {
     }
 }
 
-impl App {
+impl<'win> App<'win> {
     fn new(event_loop: &EventLoop<()>) -> Self {
         let icon = load_icon(include_bytes!("../data/allory_1024x1024x32.png"));
 
         Self {
             window: Default::default(),
+            ctx: Default::default(),
+            smgr: StateMgr::new(),
             icon,
-            pix: None,
         }
     }
-
-
 }
 
 impl StateMgr {
+    fn new() -> Self {
+        StateMgr { box_x: 30, box_y: 30, velocity_x: 1, velocity_y: 1 }
+    }
+
     fn update(&mut self) {
         if self.box_x <= 0 || self.box_x + BOX_SIZE > DEF_WIDTH as i16 {
             self.velocity_x *= -1;
@@ -114,8 +126,8 @@ impl StateMgr {
         }
 
         let wind = duclamp(self.box_x, -3..=3);
-        self.box_x += self.velocity_x + wind;
-        self.box_y += self.velocity_y + wind;
+        self.box_x += self.velocity_x;// + wind;
+        self.box_y += self.velocity_y;// + wind;
     }
 
     fn draw(&self, frame: &mut [u8] ) {
@@ -155,14 +167,10 @@ fn duclamp(val: i16, bounds: RangeInclusive<i16>) -> i16 {
     max(min(val, ma), mi)
 }
 
-
-
 fn main() {
     let event_loop = EventLoop::new().unwrap();
     event_loop.set_control_flow(ControlFlow::Wait);
-
     let mut app = App::new(&event_loop);
-
     event_loop.run_app(&mut app);
 
 }

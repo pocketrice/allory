@@ -5,7 +5,7 @@ Rust experiment for messing with rendering techniques old, new, and plenty of in
 
 ![yumetsushin tropics](https://github.com/user-attachments/assets/c4636ff6-d693-4cdb-a33f-b37477bbcbf8)
 ![2kki port city](https://github.com/user-attachments/assets/30a35750-cc24-4095-8e6b-9fc31e879aeb)!
-<img src="https://github.com/user-attachments/assets/8579318d-789e-46aa-94ee-ff24c872f147" alt="p3p tziah" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/27fc5af2-72e0-4c3a-866a-465026ac45bf" alt="p4g shichiri" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/9bd17b5e-38cf-4eaf-b683-54a8f350ca5a" alt="tf2 kcam" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/7919a70a-adac-4eea-a665-fe4b98bfa488" alt="l3v" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/2c25d631-9e1d-4269-a3df-cb6ebd71e0a2" alt="swelter impetus" width="320px" height="240px">
@@ -13,10 +13,7 @@ Rust experiment for messing with rendering techniques old, new, and plenty of in
 <img src="https://github.com/user-attachments/assets/3d9b6dbc-0bdc-4e6b-afc8-ef4b91fd7bab" alt="m3 1101 wallpaper" width="320px" height="240px">
 
 
-
-
-
-<sup>✧ Sample target examples from Yume Tsushin, Yume 2kki, Persona 3 Portable, Team Fortress 2, NSMW2, Swelter, Jubeat Copious Append, Mother 3.</sup>
+<sup>✧ Sample targets from Yume Tsushin, Yume 2kki, Persona 4 Golden, Team Fortress 2, NSMW2, Swelter, Jubeat Copious Append, Mother 3.</sup>
 
 <hr>
 

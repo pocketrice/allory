@@ -11,9 +11,18 @@ Rust experiment for messing with rendering techniques old, new, and plenty of in
 <img src="https://github.com/user-attachments/assets/2c25d631-9e1d-4269-a3df-cb6ebd71e0a2" alt="swelter impetus" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/eb3e4a3a-0217-4a21-a265-2ae27dc7373d" alt="jubeat copious" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/3d9b6dbc-0bdc-4e6b-afc8-ef4b91fd7bab" alt="m3 1101 wallpaper" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/31cb5198-e083-4730-9f94-8ed0a3dbbbfb" alt="bmw" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/7e02e967-4eed-49aa-8451-e70a0aa6a308" alt="sr" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/97d077c7-7826-4cbe-9e49-07baba25e36f" alt="sissel" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/1720ef94-c1fd-4572-af87-22c9b754f16d" alt="obra" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/a3abfbae-3b49-44b8-a1f4-42a110c3d366" alt="vivid" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/7ecb8ffc-4aab-447b-b9b7-56b568d5e0c9" alt="llama" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/6dc0f79b-cc3b-4036-922e-f08bd5bcff54" alt="infra" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/043120db-4918-431c-af61-4f4317c4b5b9" alt="id" width="320px" height="240px">
 
 
-<sup>✧ Sample targets from Yume Tsushin, Yume 2kki, Persona 4 Golden, Team Fortress 2, NSMW2, Swelter, Jubeat Copious Append, Mother 3.</sup>
+
+<sup>✧ Sample targets from Yume Tsushin, Yume 2kki, Persona 4 Golden, Team Fortress 2, NSMW2, Swelter, Jubeat Copious Append, Mother 3, Black Myth Wukong, Smash Remix, Ghost Trick, Return to the Obra Dinn, Vividlope, Winamp, INFRA, Doom.</sup>
 
 <hr>
 

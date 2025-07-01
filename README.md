@@ -17,9 +17,8 @@ Rust experiment for messing with rendering techniques old, new, and plenty of in
 <img src="https://github.com/user-attachments/assets/1720ef94-c1fd-4572-af87-22c9b754f16d" alt="obra" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/a3abfbae-3b49-44b8-a1f4-42a110c3d366" alt="vivid" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/7ecb8ffc-4aab-447b-b9b7-56b568d5e0c9" alt="llama" width="320px" height="240px">
-<img src="https://github.com/user-attachments/assets/6dc0f79b-cc3b-4036-922e-f08bd5bcff54" alt="infra" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/c04dcacc-c83e-4d00-9a4c-feb9d318080e" alt="infra" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/043120db-4918-431c-af61-4f4317c4b5b9" alt="id" width="320px" height="240px">
-
 
 
 <sup>✧ Sample targets from Yume Tsushin, Yume 2kki, Persona 4 Golden, Team Fortress 2, NSMW2, Swelter, Jubeat Copious Append, Mother 3, Black Myth Wukong, Smash Remix, Ghost Trick, Return to the Obra Dinn, Vividlope, Winamp, INFRA, Doom.</sup>

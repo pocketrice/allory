@@ -18,7 +18,7 @@ Rust experiment for messing with rendering techniques old, new, and plenty of in
 <img src="https://github.com/user-attachments/assets/05902f33-57f8-468e-b7f6-d88d1b85109c" alt="schm" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/d0db925b-d642-4249-9fdf-69a9ef11fbf4" alt="kdl3" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/a3abfbae-3b49-44b8-a1f4-42a110c3d366" alt="vivid" width="320px" height="240px">
-<img src="https://github.com/user-attachments/assets/7ecb8ffc-4aab-447b-b9b7-56b568d5e0c9" alt="llama" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/22b6f585-9a5d-42d6-9eee-c1a438bdadb6" alt="llama" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/c04dcacc-c83e-4d00-9a4c-feb9d318080e" alt="infra" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/043120db-4918-431c-af61-4f4317c4b5b9" alt="id" width="320px" height="240px">
 

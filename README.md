@@ -15,19 +15,17 @@ Rust/C-family experiment for messing with rendering techniques old, new, and ple
 <img src="https://github.com/user-attachments/assets/7e02e967-4eed-49aa-8451-e70a0aa6a308" alt="sr" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/97d077c7-7826-4cbe-9e49-07baba25e36f" alt="sissel" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/1720ef94-c1fd-4572-af87-22c9b754f16d" alt="obra" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/c04dcacc-c83e-4d00-9a4c-feb9d318080e" alt="infra" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/043120db-4918-431c-af61-4f4317c4b5b9" alt="id" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/05902f33-57f8-468e-b7f6-d88d1b85109c" alt="schm" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/d0db925b-d642-4249-9fdf-69a9ef11fbf4" alt="kdl3" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/a3abfbae-3b49-44b8-a1f4-42a110c3d366" alt="vivid" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/22b6f585-9a5d-42d6-9eee-c1a438bdadb6" alt="llama" width="320px" height="240px">
-
-<img src="https://github.com/user-attachments/assets/c04dcacc-c83e-4d00-9a4c-feb9d318080e" alt="infra" width="320px" height="240px">
-<img src="https://github.com/user-attachments/assets/043120db-4918-431c-af61-4f4317c4b5b9" alt="id" width="320px" height="240px">
-<img src="https://github.com/user-attachments/assets/ba45c46c-188e-4c6d-a8dc-aa1489de3482" alt="prophecy" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/b7da9d75-69ea-4bb4-8611-1285637423b2" alt="prophecy" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/970c1ca5-0c8d-4795-bdde-9e59ebc19472" alt="lyra" width="320px" height="240px">
 
-<br><br>
 
-<sup>▶ Yume Tsushin, Yume 2kki, Persona 4 Golden, Team Fortress 2, NSMW2, Swelter, Jubeat Copious Append, Mother 3, Black Myth Wukong, Smash Remix, Ghost Trick, Return to the Obra Dinn, Samurai Champloo, Kirby's Dream Land 3, Vividlope, Winamp, Emerald Seaglass, Deltarune, INFRA, Doom ◀</sup>
+<sup>▶ Yume Tsushin, Yume 2kki, Persona 4 Golden, Team Fortress 2, NSMW2, Swelter, Jubeat Copious Append, Mother 3, Black Myth Wukong, Smash Remix, Ghost Trick, Return to the Obra Dinn, INFRA, DOOM, Samurai Champloo, Kirby's Dream Land 3, Vividlope, Winamp, Emerald Seaglass, Deltarune ◀</sup>
 
 <hr>
 

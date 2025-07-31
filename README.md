@@ -5,32 +5,36 @@ Rust/C-family experiment for messing with rendering techniques old, new, and ple
 
 ![yumetsushin tropics](https://github.com/user-attachments/assets/c4636ff6-d693-4cdb-a33f-b37477bbcbf8)
 ![2kki port city](https://github.com/user-attachments/assets/30a35750-cc24-4095-8e6b-9fc31e879aeb)
-<img src="https://github.com/user-attachments/assets/49966e06-f2ec-425b-bd9a-26ddd42bec2c" alt="p4g shichiri" width="320px" height="240px">
-<img src="https://github.com/user-attachments/assets/be0873ee-9115-45d8-8b37-7aaa25e2e3f0" alt="tf2 kcam" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/49966e06-f2ec-425b-bd9a-26ddd42bec2c" alt="shichiri" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/be0873ee-9115-45d8-8b37-7aaa25e2e3f0" alt="kcam" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/7919a70a-adac-4eea-a665-fe4b98bfa488" alt="l3v" width="320px" height="240px">
-<img src="https://github.com/user-attachments/assets/2c25d631-9e1d-4269-a3df-cb6ebd71e0a2" alt="swelter impetus" width="320px" height="240px">
-<img src="https://github.com/user-attachments/assets/eb3e4a3a-0217-4a21-a265-2ae27dc7373d" alt="jubeat copious" width="320px" height="240px">
-<img src="https://github.com/user-attachments/assets/76b6ebaf-7fca-4c7d-93a3-012d7ecd5237" alt="m3 1101 wallpaper" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/2c25d631-9e1d-4269-a3df-cb6ebd71e0a2" alt="impetus" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/eb3e4a3a-0217-4a21-a265-2ae27dc7373d" alt="copious" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/76b6ebaf-7fca-4c7d-93a3-012d7ecd5237" alt="tazmily" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/31cb5198-e083-4730-9f94-8ed0a3dbbbfb" alt="bmw" width="320px" height="240px">
-<img src="https://github.com/user-attachments/assets/0eabe93c-0375-4cdf-8727-503e7c803bf1" alt="sr" width="320px" height="240px">
-<img src="https://github.com/user-attachments/assets/97d077c7-7826-4cbe-9e49-07baba25e36f" alt="sissel" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/0eabe93c-0375-4cdf-8727-503e7c803bf1" alt="remix" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/97d077c7-7826-4cbe-9e49-07baba25e36f" alt="kismet" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/1720ef94-c1fd-4572-af87-22c9b754f16d" alt="obra" width="320px" height="240px">
-<img src="https://github.com/user-attachments/assets/c04dcacc-c83e-4d00-9a4c-feb9d318080e" alt="infra" width="320px" height="240px">
-<img src="https://github.com/user-attachments/assets/151915cb-7585-4866-ac65-710079137db8" alt="jsrf" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/c04dcacc-c83e-4d00-9a4c-feb9d318080e" alt="stalburg" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/151915cb-7585-4866-ac65-710079137db8" alt="rudies" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/043120db-4918-431c-af61-4f4317c4b5b9" alt="id" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/7c69c48f-ac52-4970-bbec-12a64b96d63f" alt="ema" width="320px" height="240px">
-<img src="https://github.com/user-attachments/assets/05902f33-57f8-468e-b7f6-d88d1b85109c" alt="schm" width="320px" height="240px">
-<img src="https://github.com/user-attachments/assets/d0db925b-d642-4249-9fdf-69a9ef11fbf4" alt="kdl3" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/05902f33-57f8-468e-b7f6-d88d1b85109c" alt="champloo" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/d0db925b-d642-4249-9fdf-69a9ef11fbf4" alt="dl3" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/a3abfbae-3b49-44b8-a1f4-42a110c3d366" alt="vivid" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/22b6f585-9a5d-42d6-9eee-c1a438bdadb6" alt="llama" width="320px" height="240px">
-<img src="https://github.com/user-attachments/assets/2d26b330-57b8-43a5-ad0c-f325eb58fc04" alt="prophecy" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/eab694fb-60b0-483b-93d1-aa42a4f2d098" alt="prophecy" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/970c1ca5-0c8d-4795-bdde-9e59ebc19472" alt="lyra" width="320px" height="240px">
-<img src="https://github.com/user-attachments/assets/ab29ba88-40b6-4757-a2a1-b8dee2e343d2" alt="windows amia" width="320px" height="240px">
-<img src="https://github.com/user-attachments/assets/61190e20-1133-4343-afe2-78b18b45133c" alt="[i:d]" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/f8cb33ac-d5cf-4051-9aab-a33650b4b476" alt="eggroll" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/f57e4b06-53c8-4939-917a-f63ae7309164" alt="su" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/ab29ba88-40b6-4757-a2a1-b8dee2e343d2" alt="amia" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/61190e20-1133-4343-afe2-78b18b45133c" alt="uk" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/4e2b19c4-e6c0-4821-a35b-f04f7e342dfa" alt="grandmaster" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/d0446e02-6423-491b-b8d8-5ab5052e3a52" alt="inaba" width="320px" height="240px">
 
-_<sup>▶ Yume Tsushin, Yume 2kki, Persona 4 Golden, Team Fortress 2, NSMW2, Swelter, Jubeat Copious Append, Mother 3, Black Myth Wukong, Smash Remix, Ghost Trick, Return to the Obra Dinn, INFRA, Jet Set Radio Future, DOOM, Apollo Justice: Ace Attorney, Samurai Champloo, Kirby's Dream Land 3, Vividlope, Winamp, Deltarune,  Emerald Seaglass, Windows Amia, \[i:d], GhoulScrapers, -520 ◀</sup>_
+
+
+_<sup>▶ Yume Tsushin, Yume 2kki, Persona 4 Golden, Team Fortress 2, NSMW2, Swelter, Jubeat Copious Append, Mother 3, Black Myth Wukong, Smash Remix, Ghost Trick, Return to the Obra Dinn, INFRA, Jet Set Radio Future, DOOM, Apollo Justice: Ace Attorney, Samurai Champloo, Kirby's Dream Land 3, Vividlope, Winamp, Deltarune, Emerald Seaglass, GhoulScrapers, Wezterm + ncmpcpp/cbonsai/gping/weechat/htop/neofetch, Windows Amia, \[i:d], TETRIS TGM4: ABSOLUTE EYE, -520 ◀</sup>_
 
 <hr>
 

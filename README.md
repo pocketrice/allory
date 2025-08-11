@@ -48,7 +48,7 @@ Rust/C-family experimental study in rendering techniques old, new, and plenty of
 <img src="https://github.com/user-attachments/assets/b4a89561-25b6-47df-ae0b-9162fc0af390" alt="parry" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/9a566723-c63b-4394-bb65-572f3f04e5e5" alt="herb" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/d464fe49-a887-43c9-8142-c1c5481206c4" alt="nook" width="320px" height="240px">
-<img src="https://github.com/user-attachments/assets/ee753d92-434b-4448-b72c-ea4e774db26f" alt="lubba" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/4b525573-4873-42f0-abee-252fc5c47b6b" alt="lubba" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/7030f52e-6593-4aeb-adb5-29ea9d7c4b4f" alt="maya" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/d7e0e846-3279-4a73-b744-aad1d68fb005" alt="trinket" width="320px" height="240px">
 

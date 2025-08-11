@@ -1,7 +1,7 @@
 # allory
 _**Amicably Ludic Lightweight Obsolete Renderer, yay!**_
 
-Rust/C-family experiment for messing with rendering techniques old, new, and plenty of in-between.
+Rust/C-family experimental study in rendering techniques old, new, and plenty of in-between.
 
 <img src="https://github.com/user-attachments/assets/c4636ff6-d693-4cdb-a33f-b37477bbcbf8" alt="tsushin">
 <img src="https://github.com/user-attachments/assets/30a35750-cc24-4095-8e6b-9fc31e879aeb" alt="port">

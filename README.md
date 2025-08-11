@@ -3,8 +3,8 @@ _**Amicably Ludic Lightweight Obsolete Renderer, yay!**_
 
 Rust/C-family experiment for messing with rendering techniques old, new, and plenty of in-between.
 
-![yumetsushin tropics](https://github.com/user-attachments/assets/c4636ff6-d693-4cdb-a33f-b37477bbcbf8)
-![2kki port city](https://github.com/user-attachments/assets/30a35750-cc24-4095-8e6b-9fc31e879aeb)
+<img src="https://github.com/user-attachments/assets/c4636ff6-d693-4cdb-a33f-b37477bbcbf8" alt="tsushin">
+<img src="https://github.com/user-attachments/assets/30a35750-cc24-4095-8e6b-9fc31e879aeb" alt="port">
 <img src="https://github.com/user-attachments/assets/49966e06-f2ec-425b-bd9a-26ddd42bec2c" alt="shichiri" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/be0873ee-9115-45d8-8b37-7aaa25e2e3f0" alt="kcam" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/7919a70a-adac-4eea-a665-fe4b98bfa488" alt="l3v" width="320px" height="240px">
@@ -26,15 +26,33 @@ Rust/C-family experiment for messing with rendering techniques old, new, and ple
 <img src="https://github.com/user-attachments/assets/eab694fb-60b0-483b-93d1-aa42a4f2d098" alt="prophecy" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/970c1ca5-0c8d-4795-bdde-9e59ebc19472" alt="lyra" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/f8cb33ac-d5cf-4051-9aab-a33650b4b476" alt="eggroll" width="320px" height="240px">
-<img src="https://github.com/user-attachments/assets/f9721e56-f9b5-4e39-98b5-83168d7f472e" alt="moi" width="320px" height="240px">
-<img src="https://github.com/user-attachments/assets/3b6f733d-1ef4-4ee7-8e17-f73a78f9c8f0" alt="lilypad" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/f57e4b06-53c8-4939-917a-f63ae7309164" alt="su" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/80f02e64-c27a-4d3c-aac3-43ce44be28db" alt="lilypad" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/d65c7412-7701-44f2-84ab-ecf946cce9fc" alt="moi" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/ab29ba88-40b6-4757-a2a1-b8dee2e343d2" alt="amia" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/61190e20-1133-4343-afe2-78b18b45133c" alt="uk" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/4e2b19c4-e6c0-4821-a35b-f04f7e342dfa" alt="grandmaster" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/d0446e02-6423-491b-b8d8-5ab5052e3a52" alt="inaba" width="320px" height="240px">
 
-_<sup>▶ Yume Tsushin, Yume 2kki, Persona 4 Golden, Team Fortress 2, NSMW2, Swelter, Jubeat Copious Append, Mother 3, Black Myth Wukong, Smash Remix, Ghost Trick, Return to the Obra Dinn, INFRA, Jet Set Radio Future, DOOM, Apollo Justice: Ace Attorney, Samurai Champloo, Kirby's Dream Land 3, Vividlope, Winamp, Deltarune, Emerald Seaglass, GhoulScrapers, Mountain of Ink, Minecraft Alpha 1.0.16\_05, Wezterm + ncmpcpp/cbonsai/gping/weechat/htop/neofetch, Windows Amia, \[i:d], TETRIS TGM4: ABSOLUTE EYE, -520 ◀</sup>_
+
+<img src="https://github.com/user-attachments/assets/279bb474-314a-4099-b246-b250741d4088" alt="pan" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/df9585c7-a727-4052-a62a-100db521ba8d" alt="umami" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/b8925dbd-01c1-4939-b211-71da5c0ce9ed" alt="mar" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/5a8cc5aa-7723-4603-9f93-a4179f6cfad2" alt="decaf" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/88be51ee-b261-40f2-9f94-e96ce0ae0099" alt="impress" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/ba8e2371-48ed-423e-996a-d21fa958e34e" alt="boo" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/7ddb69e4-54fd-4a03-9358-fc1b5e5b19e8" alt="-1f" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/c9f29c0c-c5f5-4260-8fbb-19d2fb915ba8" alt="karpatske" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/dcb7a15c-8eeb-4e30-85a8-b50488bad96d" alt="umbra" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/c7ca9b2d-7dce-4996-a0fc-4748c914dfda" alt="badum" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/b4a89561-25b6-47df-ae0b-9162fc0af390" alt="parry" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/9a566723-c63b-4394-bb65-572f3f04e5e5" alt="herb" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/d464fe49-a887-43c9-8142-c1c5481206c4" alt="nook" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/ee753d92-434b-4448-b72c-ea4e774db26f" alt="lubba" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/7030f52e-6593-4aeb-adb5-29ea9d7c4b4f" alt="maya" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/d7e0e846-3279-4a73-b744-aad1d68fb005" alt="trinket" width="320px" height="240px">
+
+_<sup>▶ Yume Tsushin, Yume 2kki, Persona 4 Golden, Team Fortress 2, NSMW2, Swelter, Jubeat Copious Append, Mother 3, Black Myth Wukong, Smash Remix, Ghost Trick, Return to the Obra Dinn, INFRA, Jet Set Radio Future, DOOM, Apollo Justice: Ace Attorney, Samurai Champloo, Kirby's Dream Land 3, Vividlope, Winamp, Deltarune, Emerald Seaglass, GhoulScrapers, Mountain of Ink, Minecraft Alpha 1.0.16\_05, Wezterm + ncmpcpp/cbonsai/gping/weechat/htop/neofetch, Windows Amia, \[i:d], Tetris TGM4: ABSOLUTE EYE, -520, Eastward, Safe Mode, PTCG Unseen Forces, \@cloverartwork, "Regnvær, Etretat", CMA, Olympus MJU ii, Felvidek, "Window to Xi'an", APE OUT, Bloodless, Empyrean Isles, Animal Crossing: City Folk, Super Mario Galaxy 2, \@dorinaa4, various trinkets ◀ **(references)** </sup>_
 
 <hr>
 

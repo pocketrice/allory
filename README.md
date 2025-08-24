@@ -34,7 +34,6 @@ Rust/C-family experimental study in rendering techniques old, new, and plenty of
 <img src="https://github.com/user-attachments/assets/4e2b19c4-e6c0-4821-a35b-f04f7e342dfa" alt="grandmaster" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/d0446e02-6423-491b-b8d8-5ab5052e3a52" alt="inaba" width="320px" height="240px">
 
-
 <img src="https://github.com/user-attachments/assets/279bb474-314a-4099-b246-b250741d4088" alt="pan" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/df9585c7-a727-4052-a62a-100db521ba8d" alt="umami" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/b8925dbd-01c1-4939-b211-71da5c0ce9ed" alt="mar" width="320px" height="240px">
@@ -43,6 +42,10 @@ Rust/C-family experimental study in rendering techniques old, new, and plenty of
 <img src="https://github.com/user-attachments/assets/ba8e2371-48ed-423e-996a-d21fa958e34e" alt="boo" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/c9f29c0c-c5f5-4260-8fbb-19d2fb915ba8" alt="karpatske" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/8b93a2af-d353-4e40-9d9d-769f832eec59" alt="cistern" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/9fc81f46-3d7e-4f7d-b017-379c861a99b5" alt="coral" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/fb49a673-1716-4fab-bda9-06b83263ca8a" alt="mono" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/8e9007ea-d0a1-4e16-b903-727940c812ff" alt="turron" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/0cbb0101-4779-49da-9af4-f2d59c0d8057" alt="ginza" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/7ddb69e4-54fd-4a03-9358-fc1b5e5b19e8" alt="-1f" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/246a8efc-c6e5-48f3-9a19-7fd6c4a0ab24" alt="soap" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/dcb7a15c-8eeb-4e30-85a8-b50488bad96d" alt="umbra" width="320px" height="240px">
@@ -53,6 +56,8 @@ Rust/C-family experimental study in rendering techniques old, new, and plenty of
 <img src="https://github.com/user-attachments/assets/1ea8f706-77a2-4225-be7e-191cd7919974" alt="dream" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/b4a89561-25b6-47df-ae0b-9162fc0af390" alt="parry" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/9a566723-c63b-4394-bb65-572f3f04e5e5" alt="herb" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/f29a046b-edd0-4538-9e67-c5a8d498d3ac" alt="soolder" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/aeda0141-41c6-4e6e-875f-bd89554fc8a9" alt="sora" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/997ee50e-023a-4026-8efb-0e717c53a3fd" alt="catalan" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/b2930d9d-0777-4b6b-9195-6b5a1b1d463b" alt="osx" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/d464fe49-a887-43c9-8142-c1c5481206c4" alt="nook" width="320px" height="240px">
@@ -61,7 +66,7 @@ Rust/C-family experimental study in rendering techniques old, new, and plenty of
 <img src="https://github.com/user-attachments/assets/d7e0e846-3279-4a73-b744-aad1d68fb005" alt="trinket" width="320px" height="240px">
 <br><br>
 
-_<sup>▶ Yume Tsushin, Yume 2kki, Persona 4 Golden, Team Fortress 2, NSMW2, Swelter, Jubeat Copious Append, Mother 3, Black Myth Wukong, Smash Remix, Ghost Trick, Return to the Obra Dinn, INFRA, Jet Set Radio Future, DOOM, Apollo Justice: Ace Attorney, Samurai Champloo, Kirby's Dream Land 3, Vividlope, Winamp, Deltarune, Emerald Seaglass, GhoulScrapers, Mountain of Ink, Minecraft Alpha 1.0.16\_05, Wezterm + ncmpcpp/cbonsai/gping/weechat/htop/neofetch, Windows Amia, \[i:d], Tetris TGM4: ABSOLUTE EYE, -520, Eastward, Safe Mode, PTCG Unseen Forces, \@cloverartwork, "Regnvær, Etretat", CMA, Felvidek, The Legend of Zelda: Skyward Sword, Olympus MJU ii, Sonic Adventure 2, "Window to Xi'an", APE OUT, Nothing Phone (3), хоббит, Nikonos V, Lucid Blocks, Bloodless, Empyrean Isles, Sagrada Familia, MacOS 10.5 Server, Animal Crossing: City Folk, Super Mario Galaxy 2, \@dorinaa4, various trinkets ◀ **(references)** </sup>_
+_<sup>▶ Yume Tsushin, Yume 2kki, Persona 4 Golden, Team Fortress 2, NSMW2, Swelter, Jubeat Copious Append, Mother 3, Black Myth Wukong, Smash Remix, Ghost Trick, Return to the Obra Dinn, INFRA, Jet Set Radio Future, DOOM, Apollo Justice: Ace Attorney, Samurai Champloo, Kirby's Dream Land 3, Vividlope, Winamp, Deltarune, Emerald Seaglass, GhoulScrapers, Mountain of Ink, Minecraft Alpha 1.0.16\_05, Wezterm + ncmpcpp/cbonsai/gping/weechat/htop/neofetch, Windows Amia, \[i:d], Tetris TGM4: ABSOLUTE EYE, -520, Eastward, Safe Mode, PTCG Unseen Forces, \@cloverartwork, "Regnvær, Etretat", CMA, Felvidek, The Legend of Zelda: Skyward Sword, \@blue-nebraska, Zhengzhoudong monorail station, ENA Temptation Stairway, Ginza district, Olympus MJU ii, Sonic Adventure 2, "Xi'an Window", APE OUT, Nothing Phone (3), хоббит, Nikonos V, Lucid Blocks, Bloodless, Empyrean Isles, \@dino-burger, Kirby Air Riders, Sagrada Familia, MacOS 10.5 Server, Animal Crossing: City Folk, Super Mario Galaxy 2, \@dorinaa4, various trinkets ◀ **(references)** </sup>_
 
 <hr>
 

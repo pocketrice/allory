@@ -36,29 +36,47 @@ Rust/C-family experimental study in rendering techniques old, new, and plenty of
 
 <img src="https://github.com/user-attachments/assets/279bb474-314a-4099-b246-b250741d4088" alt="pan" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/df9585c7-a727-4052-a62a-100db521ba8d" alt="umami" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/8b93a2af-d353-4e40-9d9d-769f832eec59" alt="cistern" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/d5838d72-4791-41bb-b603-0ec19b17584e" alt="gretel" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/b8925dbd-01c1-4939-b211-71da5c0ce9ed" alt="mar" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/5a8cc5aa-7723-4603-9f93-a4179f6cfad2" alt="decaf" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/88be51ee-b261-40f2-9f94-e96ce0ae0099" alt="impress" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/ba8e2371-48ed-423e-996a-d21fa958e34e" alt="boo" width="320px" height="240px">
-<img src="https://github.com/user-attachments/assets/c9f29c0c-c5f5-4260-8fbb-19d2fb915ba8" alt="karpatske" width="320px" height="240px">
-<img src="https://github.com/user-attachments/assets/8b93a2af-d353-4e40-9d9d-769f832eec59" alt="cistern" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/c82dc438-06a8-43d3-b886-0edf04f46383" alt="snip" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/beac9906-bfc4-4a6a-b69c-df5eda5bad82" alt="nujabes" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/9fc81f46-3d7e-4f7d-b017-379c861a99b5" alt="coral" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/fb49a673-1716-4fab-bda9-06b83263ca8a" alt="mono" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/c9f29c0c-c5f5-4260-8fbb-19d2fb915ba8" alt="karpatske" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/2d3385d6-e433-4c8a-b880-f2c3b8949369" alt="spc" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/9e05d0a5-c34f-4016-8895-a93ac4b0b4b8" alt="nugget" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/b295757f-65a9-43f3-9a0b-397905f27f1a" alt="叶海棠" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/50f9a7b4-97d8-4242-935d-d8eecf0bbfa7" alt="sonnenstrahl" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/b713b7cc-31d1-4813-ae44-e6ec133609c7" alt="lucky" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/348332f9-d421-4280-b069-67ee14e04acd" alt="stratocumulus" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/15cb2c26-c978-4a48-8534-d6d7eabddd70" alt="ulm" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/8e9007ea-d0a1-4e16-b903-727940c812ff" alt="turron" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/0cbb0101-4779-49da-9af4-f2d59c0d8057" alt="ginza" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/7ddb69e4-54fd-4a03-9358-fc1b5e5b19e8" alt="-1f" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/246a8efc-c6e5-48f3-9a19-7fd6c4a0ab24" alt="soap" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/dcb7a15c-8eeb-4e30-85a8-b50488bad96d" alt="umbra" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/c7ca9b2d-7dce-4996-a0fc-4748c914dfda" alt="badum" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/00cb1a6d-6c67-48e6-9504-a4736f0f59b8" alt="celadon" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/1ea8f706-77a2-4225-be7e-191cd7919974" alt="dreme" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/487f61c6-829f-410d-96f8-a430a1a8c636" alt="nada" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/a45dccf1-68f7-4764-b0fa-c40bb2fb35c3" alt="gandalf" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/13cff49c-6dbd-473f-9e24-2ce34d7e1ea0" alt="mykonos" width="320px" height="240px">
-<img src="https://github.com/user-attachments/assets/1ea8f706-77a2-4225-be7e-191cd7919974" alt="dream" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/89a556a3-d9bf-4163-ad83-27d241790c6c" alt="paradise" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/8c235137-b1e5-49ce-832e-152ed165ddf6" alt="dreary" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/5df3c627-7002-476c-811f-8b39ca533a90" alt="schudawg" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/dd2ae290-5440-4d70-93d4-9ea7bc774c0e" alt="grit" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/cb3bbc09-1eca-4a7b-8987-48559ff6878e" alt="hai" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/f29a046b-edd0-4538-9e67-c5a8d498d3ac" alt="soolder" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/04a8cd69-a20b-4feb-ba80-cec0d03ed6ad" alt="komiket" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/b4a89561-25b6-47df-ae0b-9162fc0af390" alt="parry" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/9a566723-c63b-4394-bb65-572f3f04e5e5" alt="herb" width="320px" height="240px">
-<img src="https://github.com/user-attachments/assets/f29a046b-edd0-4538-9e67-c5a8d498d3ac" alt="soolder" width="320px" height="240px">
-<img src="https://github.com/user-attachments/assets/aeda0141-41c6-4e6e-875f-bd89554fc8a9" alt="sora" width="320px" height="240px">
-<img src="https://github.com/user-attachments/assets/997ee50e-023a-4026-8efb-0e717c53a3fd" alt="catalan" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/d4a89399-a237-49e0-a1ea-935499cf0eec" alt="coronet" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/8269b366-0d83-4079-b7ce-ae24a9905e8c" alt="castelia" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/997ee50e-023a-4026-8efb-0e717c53a3fd" alt="catalunya" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/b2930d9d-0777-4b6b-9195-6b5a1b1d463b" alt="osx" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/d464fe49-a887-43c9-8142-c1c5481206c4" alt="nook" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/4b525573-4873-42f0-abee-252fc5c47b6b" alt="lubba" width="320px" height="240px">
@@ -66,7 +84,7 @@ Rust/C-family experimental study in rendering techniques old, new, and plenty of
 <img src="https://github.com/user-attachments/assets/d7e0e846-3279-4a73-b744-aad1d68fb005" alt="trinket" width="320px" height="240px">
 <br><br>
 
-_<sup>▶ Yume Tsushin, Yume 2kki, Persona 4 Golden, Team Fortress 2, NSMW2, Swelter, Jubeat Copious Append, Mother 3, Black Myth Wukong, Smash Remix, Ghost Trick, Return to the Obra Dinn, INFRA, Jet Set Radio Future, DOOM, Apollo Justice: Ace Attorney, Samurai Champloo, Kirby's Dream Land 3, Vividlope, Winamp, Deltarune, Emerald Seaglass, GhoulScrapers, Mountain of Ink, Minecraft Alpha 1.0.16\_05, Wezterm + ncmpcpp/cbonsai/gping/weechat/htop/neofetch, Windows Amia, \[i:d], Tetris TGM4: ABSOLUTE EYE, -520, Eastward, Safe Mode, The Legend of Zelda: Skyward Sword, Harvest Moon: Grand Bazaar, PTCG Unseen Forces, \@cloverartwork, "Regnvær, Etretat", CMA, Lushfoil Photography Sim, Usagi Ramen, \@blue-nebraska, Zhengzhoudong monorail station, Felvidek, Aseprite + DSP700, Yakuza 0,《十二封信》, Herzogenriedpark Mannheim, CITY: The Animation, Fiordland cloudy sea, München 1972 Olympics poster, ENA Temptation Stairway, Ginza district, Olympus MJU ii, Sonic Adventure 2, "Xi'an Window", APE OUT, Nothing Phone (3), хоббит, Nikonos V, Lucid Blocks, Advance Wars: Dual Strike, Kirby Air Ride, \@dino-burger, Touhou Unconnected Marketeers, Bloodless, Empyrean Isles, Sagrada Familia, MacOS 10.5 Server, Animal Crossing: City Folk, Super Mario Galaxy 2, \@dorinaa4, various trinkets ◀ **(references)** </sup>_
+_<sup>▶ Yume Tsushin, Yume 2kki, Persona 4 Golden, Team Fortress 2, NSMW2, Swelter, Jubeat Copious Append, Mother 3, Black Myth Wukong, Smash Remix, Ghost Trick, Return to the Obra Dinn, INFRA, Jet Set Radio Future, DOOM, Apollo Justice: Ace Attorney, Samurai Champloo, Kirby's Dream Land 3, Vividlope, Winamp, Deltarune, Emerald Seaglass, GhoulScrapers, Mountain of Ink, Minecraft Alpha 1.0.16\_05, Wezterm + ncmpcpp/cbonsai/gping/weechat/htop/neofetch, Windows Amia, \[i:d], Tetris TGM4: ABSOLUTE EYE, -520, Eastward, Safe Mode, The Legend of Zelda: Skyward Sword, Harvest Moon: Grand Bazaar, PTCG Unseen Forces, \@cloverartwork, "Regnvær, Etretat", CMA, Lushfoil Photography Sim, Usagi Ramen, \@blue-nebraska, Zhengzhoudong monorail station, Felvidek, Aseprite + DSP700, Yakuza 0,《十二封信》, Herzogenriedpark Mannheim, CITY: The Animation, Fiordland cloudy sea, München 1972 Olympics poster, ENA Temptation Stairway, Ginza district, Olympus MJU ii, Sonic Adventure 2, "Xi'an Window", APE OUT, 'Goryeo Bisaek' exhibition, Lucid Blocks, Nothing Phone (3), хоббит, Nikonos V, Avalon Venture Lounger + CMF Phone 2, Chengdu + Lunapic, Schucannons, Advance Wars: Dual Strike, Kirby Air Ride, \@dino-burger, Touhou Unconnected Marketeers, Bloodless, Empyrean Isles, Pokémon Legends: Arceus, Pokémon White, Sagrada Familia, MacOS 10.5 Server, Animal Crossing: City Folk, Super Mario Galaxy 2, \@dorinaa4, various keepsakes ◀ **(references)** </sup>_
 
 <hr>
 

@@ -1,7 +1,7 @@
 # allory
 _**Amicably Ludic Lightweight Obsolete Renderer, yay!**_
 
-Rust/C-family experimental study in rendering techniques old, new, and plenty of in-between.
+Rust case study series in (digital|analog) graphics techniques old, new, and plenty in-between!
 
 <img src="https://github.com/user-attachments/assets/c4636ff6-d693-4cdb-a33f-b37477bbcbf8" alt="tsushin">
 <img src="https://github.com/user-attachments/assets/30a35750-cc24-4095-8e6b-9fc31e879aeb" alt="port">
@@ -35,9 +35,9 @@ Rust/C-family experimental study in rendering techniques old, new, and plenty of
 <img src="https://github.com/user-attachments/assets/d0446e02-6423-491b-b8d8-5ab5052e3a52" alt="inaba" width="320px" height="240px">
 
 <img src="https://github.com/user-attachments/assets/279bb474-314a-4099-b246-b250741d4088" alt="pan" width="320px" height="240px">
-<img src="https://github.com/user-attachments/assets/df9585c7-a727-4052-a62a-100db521ba8d" alt="umami" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/5e23126c-1633-412b-9bad-08d8efc24640" alt="vorkuta" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/8b93a2af-d353-4e40-9d9d-769f832eec59" alt="cistern" width="320px" height="240px">
-<img src="https://github.com/user-attachments/assets/d5838d72-4791-41bb-b603-0ec19b17584e" alt="gretel" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/df9585c7-a727-4052-a62a-100db521ba8d" alt="umami" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/b8925dbd-01c1-4939-b211-71da5c0ce9ed" alt="mar" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/5a8cc5aa-7723-4603-9f93-a4179f6cfad2" alt="decaf" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/88be51ee-b261-40f2-9f94-e96ce0ae0099" alt="impress" width="320px" height="240px">
@@ -49,10 +49,10 @@ Rust/C-family experimental study in rendering techniques old, new, and plenty of
 <img src="https://github.com/user-attachments/assets/c9f29c0c-c5f5-4260-8fbb-19d2fb915ba8" alt="karpatske" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/2d3385d6-e433-4c8a-b880-f2c3b8949369" alt="spc" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/9e05d0a5-c34f-4016-8895-a93ac4b0b4b8" alt="nugget" width="320px" height="240px">
-<img src="https://github.com/user-attachments/assets/b295757f-65a9-43f3-9a0b-397905f27f1a" alt="叶海棠" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/e99bd482-2d4e-4da9-b06f-92ce01192562" alt="yuno" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/50f9a7b4-97d8-4242-935d-d8eecf0bbfa7" alt="sonnenstrahl" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/b713b7cc-31d1-4813-ae44-e6ec133609c7" alt="lucky" width="320px" height="240px">
-<img src="https://github.com/user-attachments/assets/348332f9-d421-4280-b069-67ee14e04acd" alt="stratocumulus" width="320px" height="240px">
+<img src="https://github.com/user-attachments/assets/fb0fc7a3-2e6a-48f6-ba98-403c80c21016" alt="alpsy" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/15cb2c26-c978-4a48-8534-d6d7eabddd70" alt="ulm" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/8e9007ea-d0a1-4e16-b903-727940c812ff" alt="turron" width="320px" height="240px">
 <img src="https://github.com/user-attachments/assets/0cbb0101-4779-49da-9af4-f2d59c0d8057" alt="ginza" width="320px" height="240px">
@@ -94,7 +94,9 @@ Rust/C-family experimental study in rendering techniques old, new, and plenty of
 <img src="https://github.com/user-attachments/assets/d7e0e846-3279-4a73-b744-aad1d68fb005" alt="trinket" width="320px" height="240px">
 <br><br>
 
-_<sup>▶ Yume Tsushin, Yume 2kki, Persona 4 Golden, Team Fortress 2, NSMW2, Swelter, Jubeat Copious Append, Mother 3, Black Myth Wukong, Smash Remix, Ghost Trick, Return to the Obra Dinn, INFRA, Jet Set Radio Future, DOOM, Apollo Justice: Ace Attorney, Samurai Champloo, Kirby's Dream Land 3, Vividlope, Winamp, Deltarune, Emerald Seaglass, GhoulScrapers, Mountain of Ink, Minecraft Alpha 1.0.16\_05, Wezterm + ncmpcpp/cbonsai/gping/weechat/htop/neofetch, Windows Amia, \[i:d], Tetris TGM4: ABSOLUTE EYE, -520, Eastward, Safe Mode, The Legend of Zelda: Skyward Sword, Harvest Moon: Grand Bazaar, PTCG Unseen Forces, \@cloverartwork, "Regnvær, Etretat", CMA, Lushfoil Photography Sim, Usagi Ramen, \@blue-nebraska, Zhengzhoudong monorail station, Felvidek, Aseprite + DSP700, Yakuza 0,《十二封信》, Herzogenriedpark Mannheim, CITY: The Animation, Fiordland cloudy sea, München 1972 Olympics poster, ENA Temptation Stairway, Ginza district, Olympus MJU ii, Sonic Adventure 2, "Xi'an Window", APE OUT, 'Goryeo Bisaek' exhibition, Lucid Blocks, Nothing Phone (3), хоббит, Nikonos V, Avalon Venture Lounger + CMF Phone 2, Chengdu + Lunapic, Schucannons, Advance Wars: Dual Strike, Kirby Air Ride, \@dino-burger, xkcd, Touhou Unconnected Marketeers, Paper Mario: The Thousand-Year Door, Shadow of the Colossus, Mirror's Edge, Half-Life: Alyx, 1998 iMac advert, Plan 9 from Bell Labs, 2012/endoh1, Hollow Knight, 'the / Coronation Day, Bloodless, Empyrean Isles, Pokémon Legends: Arceus, Pokémon White, Sagrada Familia, MacOS 10.5 Server, Animal Crossing: City Folk, Super Mario Galaxy 2, \@dorinaa4, various keepsakes ◀ **(references)** </sup>_
+
+
+_<sup>▶ Yume Tsushin, Yume 2kki, Persona 4 Golden, Team Fortress 2, NSMW2, Swelter, Jubeat Copious Append, Mother 3, Black Myth Wukong, Smash Remix, Ghost Trick, Return to the Obra Dinn, INFRA, Jet Set Radio Future, DOOM, Apollo Justice: Ace Attorney, Samurai Champloo, Kirby's Dream Land 3, Vividlope, Winamp, Deltarune, Emerald Seaglass, GhoulScrapers, Mountain of Ink, Minecraft Alpha 1.0.16\_05, Wezterm + ncmpcpp/cbonsai/gping/weechat/htop/neofetch, Windows Amia, \[i:d], Tetris TGM4: ABSOLUTE EYE, -520, Eastward, Z.A.T.O. // I Love the World And Everything In It, The Legend of Zelda: Skyward Sword, Safe Mode, PTCG Unseen Forces, \@cloverartwork, "Regnvær, Etretat", CMA, Lushfoil Photography Sim, Usagi Ramen, \@blue-nebraska, Zhengzhoudong monorail station, Felvidek, Aseprite + DSP700, Yakuza 0, Hidamari Sketch, Herzogenriedpark Mannheim, CITY: The Animation, "Hiking the Austrian Alps", München 1972 Olympics poster, ENA Temptation Stairway, Ginza district, Olympus MJU ii, Sonic Adventure 2, "Xi'an Window", APE OUT, 'Goryeo Bisaek' exhibition, Lucid Blocks, Nothing Phone (3), хоббит, Nikonos V, Avalon Venture Lounger + CMF Phone 2, Chengdu + Lunapic, Schucannons, Advance Wars: Dual Strike, Kirby Air Ride, \@dino-burger, xkcd, Touhou Unconnected Marketeers, Paper Mario: The Thousand-Year Door, Shadow of the Colossus, Mirror's Edge, Half-Life: Alyx, 1998 iMac advert, Plan 9 from Bell Labs, 2012/endoh1, Hollow Knight, 'the / Coronation Day, Bloodless, Empyrean Isles, Pokémon Legends: Arceus, Pokémon White, Sagrada Familia, MacOS 10.5 Server, Animal Crossing: City Folk, Super Mario Galaxy 2, \@dorinaa4, various keepsakes ◀ **(references)** </sup>_
 
 <hr>
 
@@ -109,8 +111,4 @@ I believe in the idea that there are better methods of interfacing between human
 
 A world where we engage with computers in a more ethical, conscious, liberating, and distinctly human manner means a more _human_ world!
 
-
-
-<hr>
-
-> Inspired by Kaze Emanuar as well as many many amazing people! ♥
+> a love letter to all the lovely and wonderful art we make! ♥
